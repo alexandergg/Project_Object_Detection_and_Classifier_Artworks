@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CustomVision"
+             x:Class="CustomVision.MainPage">
+    <StackLayout Padding="20">
+        <Image x:Name="Img" Source="ic_launcher.png" MinimumHeightRequest="100" MinimumWidthRequest="100"></Image>
+        <Button Text="Elegir imagen" Clicked="ElegirImage"></Button>
+        <Button Text="Sacar foto" Clicked="TomarFoto"></Button>
+        <Button Text="Clasificar" Clicked="Clasificar"></Button>
+        <Label x:Name="ResponseLabel"></Label>
+        <ProgressBar x:Name="Accuracy" HeightRequest="20"/>
+    </StackLayout>
+</ContentPage>
