@@ -17,7 +17,7 @@ pip==9.0.1
 protobuf==3.5.1
 PyYAML==3.12
 redis==2.10.6
-requests==2.18.4
+requests==2.20.0
 scikit-learn==0.19.1
 scipy==1.0.0
 setuptools==28.8.0
