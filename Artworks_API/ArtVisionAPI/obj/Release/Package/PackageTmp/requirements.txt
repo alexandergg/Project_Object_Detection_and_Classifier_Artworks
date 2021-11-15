@@ -13,7 +13,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 numpy==1.14.1
 opencv-contrib-python==3.4.0.12
-pip==9.0.1
+pip==21.1
 protobuf==3.5.1
 PyYAML==3.12
 redis==2.10.6
