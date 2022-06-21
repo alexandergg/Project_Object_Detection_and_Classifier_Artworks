@@ -11,7 +11,7 @@ Jinja2==2.10
 joblib==0.11
 Markdown==2.6.11
 MarkupSafe==1.0
-numpy==1.14.1
+numpy==1.22.0
 opencv-contrib-python==3.4.0.12
 pip==9.0.1
 protobuf==3.5.1
