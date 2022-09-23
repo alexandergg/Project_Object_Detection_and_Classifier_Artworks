@@ -14,7 +14,7 @@ MarkupSafe==1.0
 numpy==1.14.1
 opencv-contrib-python==3.4.0.12
 pip==9.0.1
-protobuf==3.5.1
+protobuf==3.18.3
 PyYAML==3.12
 redis==2.10.6
 requests==2.18.4
