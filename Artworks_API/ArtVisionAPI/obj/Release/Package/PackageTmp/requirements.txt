@@ -20,7 +20,7 @@ redis==2.10.6
 requests==2.18.4
 scikit-learn==0.19.1
 scipy==1.0.0
-setuptools==28.8.0
+setuptools==65.5.1
 six==1.11.0
 sklearn==0.0
 urllib3==1.22
